@@ -1,0 +1,10 @@
+*{
+    font-family: sans-serif;
+}
+h2{
+    font-weight: bolder;
+}
+section{
+    align-items: center;
+    margin-bottom: 0;
+}
